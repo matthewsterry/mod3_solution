@@ -1,0 +1,24 @@
+body {
+	background-color: white;
+}
+h1 { 
+background-color: lightGray;
+font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+font-family: 'Roboto Mono', monospace;
+text-align: center;
+}
+
+div { 
+background-color: lightGray;
+font-family: 'Roboto Mono', monospace;
+text-align: center; 
+}
+
+p {text-align: justify;
+}
+
+
+
